@@ -16,16 +16,6 @@ export const Title = styled.Text`
   margin: 64px 0 24px;
 `;
 
-export const ForgotPassword = styled.TouchableOpacity`
-  margin-top: 24px;
-`;
-
-export const ForgotPasswordText = styled.Text`
-  font-family: 'RobotoSlab-Regular';
-  font-size: 16px;
-  color: #f4ede8;
-`;
-
 export const BackToSignIn = styled.TouchableOpacity`
   position: absolute;
   left: 0;

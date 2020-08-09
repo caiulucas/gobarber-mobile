@@ -1,7 +1,6 @@
 /* eslint-disable react/jsx-curly-newline */
 import React, { useRef, useCallback } from 'react';
 import {
-  Image,
   View,
   ScrollView,
   KeyboardAvoidingView,
